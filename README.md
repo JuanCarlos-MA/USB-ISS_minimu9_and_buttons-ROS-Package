@@ -24,11 +24,11 @@ sudo chmod a+rw /dev/ttyACM0
 Para instalar el paquete de este repositorio llamado: `minimu-9`, se deben ejecutar en una terminal las siguientes instrucciones:
 
 ```
-
 cd ~
-git clone
+git clone https://github.com/JuanCarlos-MA/USB-ISS_minimu9_and_buttons-ROS-Package.git
 cd ~/minimu-9
 catkin build
 source devel/setup.bash
-
+```
+por
 
