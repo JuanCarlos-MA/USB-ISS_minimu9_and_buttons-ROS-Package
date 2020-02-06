@@ -67,7 +67,7 @@ Esto demuestra que funciona correctamente, para observar una salida del programa
 
 ## Autor
 
-**Juan Carlos Martínez Aguilar** *Estancia de Investigación (Invierno 2020)*
+**Juan Carlos Martínez Aguilar** *Estancia de Investigación en Robots Humanoides*
 
 ## Referencias
 1. ROS.org, "ROS Tutorials," 23 Decemeber 2019. [Online]. Available: http://wiki.ros.org/ROS/Tutorials. [Accessed 16 January 2020].
