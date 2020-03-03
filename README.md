@@ -13,7 +13,7 @@ El usuario deberá tener correctamente instalado ROS, GIT, así como la carpeta 
 * Dos [resistencias de 1K Ohms](https://www.sparkfun.com/products/14492)
 
 ## Uso e información general
-Este proyecto es una extensión a ROS de un repositorio anterior [USB-ISS_minimu9_and_buttons](https://github.com/JuanCarlos-MA/USB-ISS_minimu9_and_buttons/edit/master/README.md) en dónde se utilzaron todos los componentes que se encuentran en el apartado de [Pre-requisitos](#pre-requisitos), es por ello que si requiere saber más imformación sobre cualqueira de ellos, su diagrama de conexión física y/o compatibilidades de los productos es altamente recomendable leerlo a detalle.
+Este proyecto es una extensión a ROS de un repositorio anterior [USB-ISS_minimu9_and_buttons](https://github.com/JuanCarlos-MA/USB-ISS_minimu9_and_buttons) en dónde se utilzaron todos los componentes que se encuentran en el apartado de [Pre-requisitos](#pre-requisitos), es por ello que si requiere saber más imformación sobre cualqueira de ellos, su diagrama de conexión física y/o compatibilidades de los productos es altamente recomendable leerlo a detalle.
 
 ## Proceso de utilización
 
